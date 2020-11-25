@@ -60,8 +60,8 @@
       "title": "Koinz",
       "description": "<a href=\"http://www.koinz.app\" target=\"_blank\" rel=\"noopener\">Koinz </a> is the intelligent growth engine for restaurants. it is a game-like loyalty platform with a uniquely engaging experience that helps increase customer satisfaction as well as keep them engaged and connected to the brand.",
       "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/9b/6c/d7/9b6cd740-fb96-943b-1bef-bf20f576aa81/source/1024x1024bb.jpg",
-      "screenShot1": "/images/koinzgif122.gif",
-      "screenShot2": "https://iphonepal.com/resume/images/koinz2.gif",
+      "screenShot1": "/resume/images/koinzgif122.gif",
+      "screenShot2": "/resume/images/koinz2.gif",
       "appStoreLink": "https://apps.apple.com/us/app/koinz-visit-collect-win/id1220667985",
       "googlePlayLink": "",
       "tools": [
@@ -77,8 +77,8 @@
       "title": "Steyoyoke",
       "description": "Christian Legno a world-class music composer, it was an honor helping him rebuild his app. The app is a music and podcast platform for Legno and his colleges.",
       "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/31/06/5f3106cc-ecbd-4d01-d8a0-7c9eef8437d1/source/1024x1024bb.jpg",
-      "screenShot1": "https://iphonepal.com/resume/images/syykGif.gif",
-      "screenShot2": "https://iphonepal.com/resume/images/styyk2.png",
+      "screenShot1": "/resume/images/syykGif.gif",
+      "screenShot2": "/resume/images/styyk2.png",
       "appStoreLink": "https://apps.apple.com/us/app/steyoyoke/id1122066455",
       "googlePlayLink": "",
       "tools": [
@@ -94,8 +94,8 @@
       "title": "Earworms",
       "description": "The leading language-education platform in Europe, with a huge libary of cross-languages musical training.",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/70/b5/48/70b5487a-7d39-ea2f-7fdb-25c0a14d2f5c/source/1024x1024bb.jpg",
-      "screenShot1": "https://iphonepal.com/resume/images/earworms1.png",
-      "screenShot2": "https://iphonepal.com/resume/images/earworms2.png",
+      "screenShot1": "/resume/images/earworms1.png",
+      "screenShot2": "/resume/images/earworms2.png",
       "appStoreLink": "https://itunes.apple.com/us/app/earworms-musical-brain-trainer/id1214721881?mt=8",
       "googlePlayLink": "https://play.google.com/store/apps/details?id=com.earwormslearning.universal",
       "tools": [
@@ -127,8 +127,8 @@
       "title": "ZAD",
       "description": "One of the leading grocery shoping apps in Saudi Arabia.",
       "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/74/b0/c174b07e-1e86-cd92-d014-d6e1abe3a909/source/1024x1024bb.jpg",
-      "screenShot1": "https://iphonepal.com/resume/images/zad1.png",
-      "screenShot2": "https://iphonepal.com/resume/images/zad2.png",
+      "screenShot1": "/resume/images/zad1.png",
+      "screenShot2": "/resume/images/zad2.png",
       "appStoreLink": "https://apps.apple.com/us/app/zad/id1177623187",
       "googlePlayLink": "",
       "tools": [
@@ -153,7 +153,7 @@
       "text": "Very successfull work! Mohamed is not only a very skilled programmer but has an essential grasp of what has to be done and adds a lot of creative input to our projects."
     },
     {
-      "icon": "https://iphonepal.com/resume/images/dott.jpeg",
+      "icon": "/resume/images/dott.jpeg",
       "title": "Mohamed Fathy, Dott Qatar.",
       "url": "http://dott.com",
       "text": "Mohamed delivered good work on this iOS app and I enjoyed working with him. His communication was top-notch, he met all deadlines, and his skills were reasonably strong. At one point I asked for an additional milestone and he was very forthcoming that the additional work was outside his area of expertise. He helped me find additional freelancers to support the work. I enjoyed working with Mohamed and will likely have additional jobs for him in the future."
