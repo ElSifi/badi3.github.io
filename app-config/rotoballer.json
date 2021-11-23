@@ -30,5 +30,21 @@
     "body_text": "body_textbody_textbody_textbody_textbody_textbody_textbody_text",
     "update_button_text": "Update now!",
     "cancel_button_text": "Later"
+  },
+  "football": {
+    "latest_versions": {
+      "ios": "1.2",
+      "android": "10.5"
+    },
+    "should_notify": true,
+    "should_lock": false,
+    "new_url": {
+      "ios": "http://",
+      "android": "http://"
+    },
+    "title_text": "title_text",
+    "body_text": "body_textbody_textbody_textbody_textbody_textbody_textbody_text",
+    "update_button_text": "Update now!",
+    "cancel_button_text": "Later"
   }
 }
