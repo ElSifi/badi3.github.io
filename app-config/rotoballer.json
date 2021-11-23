@@ -10,8 +10,8 @@
       "ios": "http://",
       "android": "http://"
     },
-    "tilte_text": "alert",
-    "body_text": "body",
+    "title_text": "title_text",
+    "body_text": "body_textbody_textbody_textbody_textbody_textbody_text",
     "update_button_text": "Update now!",
     "cancel_button_text": "Later"
   },
@@ -26,8 +26,8 @@
       "ios": "http://",
       "android": "http://"
     },
-    "tilte_text": "alert",
-    "body_text": "body",
+    "title_text": "title_text",
+    "body_text": "body_textbody_textbody_textbody_textbody_textbody_textbody_text",
     "update_button_text": "Update now!",
     "cancel_button_text": "Later"
   }
