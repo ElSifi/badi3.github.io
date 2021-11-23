@@ -14,5 +14,21 @@
     "body_text": "body",
     "update_button_text": "Update now!",
     "cancel_button_text": "Later"
+  },
+  "basketball": {
+    "latest_versions": {
+      "ios": "1.2",
+      "android": "10.5"
+    },
+    "should_notify": true,
+    "should_lock": false,
+    "new_url": {
+      "ios": "http://",
+      "android": "http://"
+    },
+    "tilte_text": "alert",
+    "body_text": "body",
+    "update_button_text": "Update now!",
+    "cancel_button_text": "Later"
   }
 }
