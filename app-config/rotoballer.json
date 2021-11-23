@@ -1,0 +1,18 @@
+{
+  "baseball": {
+    "latest_versions": {
+      "ios": "1.2",
+      "android": "1.2"
+    },
+    "should_notify": true,
+    "should_lock": false,
+    "new_url": {
+      "ios": "http://",
+      "android": "http://"
+    },
+    "tilte_text": "alert",
+    "body_text": "body",
+    "update_button_text": "Update now!",
+    "cancel_button_text": "Later"
+  }
+}
