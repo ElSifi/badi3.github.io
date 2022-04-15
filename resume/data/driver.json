@@ -26,7 +26,7 @@
           "weight":3
       },
       {
-          "text":"Animation",
+          "text":"Flutter",
           "weight":4
       },
       {
@@ -43,15 +43,15 @@
       },
       {
         "text": "AfterEffects",
-        "weight": 3
+        "weight": 2
       },
       {
         "text": "Objective-C",
         "weight": 4
       },
       {
-        "text": "Flutter",
-        "weight": 5
+        "text": "Vue.js",
+        "weight": 3
       }
     ]
   },
