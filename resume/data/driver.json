@@ -97,12 +97,9 @@
       "screenShot1": "/resume/images/earworms1.png",
       "screenShot2": "/resume/images/earworms-rolling.gif",
       "appStoreLink": "https://itunes.apple.com/us/app/earworms-musical-brain-trainer/id1214721881?mt=8",
-      "googlePlayLink": "https://play.google.com/store/apps/details?id=com.earwormslearning.universal",
+      "googlePlayLink": "",
       "tools": [
-        "Appcelerator Titanium",
-        "Javascript",
         "In-App-Purchase",
-        "Cross-Platform",
         "LRC Parsing"
       ],
       "Challenges": "Despite the fact that is a cross-platform app, Earworms provides a unique language training experience, I do love this app!"
@@ -114,12 +111,9 @@
       "screenShot1": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/80/83/e2/8083e241-c407-70cb-6824-8225a65a0101/pr_source.png/460x0w.png",
       "screenShot2": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/30/3d/26/303d26ce-3c32-01a8-0cc4-145efb55fa6c/pr_source.png/460x0w.png",
       "appStoreLink": "https://apps.apple.com/ec/app/5forlife-challenge/id1468459140?l=en",
-      "googlePlayLink": "https://play.google.com/store/apps/details?id=de.shentisports.fiveforlife&hl=en",
+      "googlePlayLink": "",
       "tools": [
-        "Appcelerator Titanium",
-        "Javascript",
         "In-App-Purchase",
-        "Cross-Platform"
       ],
       "Challenges": ""
     },
