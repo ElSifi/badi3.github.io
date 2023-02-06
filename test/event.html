@@ -4,14 +4,14 @@
          <!--
             function triggerEvent() {
             // Create the event
-            var event = new CustomEvent("name-of-event", { "detail": "Example of an event" });
+            var event = new CustomEvent("event1", { "detail": "Example of an event" });
 
             // Dispatch/Trigger/Fire the event
             document.dispatchEvent(event);
             }
 
-            document.addEventListener("name-of-event", function(e) {
-  console.log(e.detail); // Prints "Example of an event"
+            document.addEventListener("event1", function(e) {
+  console.log(JSON.stringify(e)); // Prints "Example of an event"
 });
          //-->
       </script>      
