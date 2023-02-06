@@ -1,0 +1,26 @@
+<html>
+   <head>   
+      <script type = "text/javascript">
+         <!--
+            function triggerEvent() {
+            // Create the event
+            var event = new CustomEvent("name-of-event", { "detail": "Example of an event" });
+
+            // Dispatch/Trigger/Fire the event
+            document.dispatchEvent(event);
+            }
+
+            document.addEventListener("name-of-event", function(e) {
+  console.log(e.detail); // Prints "Example of an event"
+});
+         //-->
+      </script>      
+   </head>
+   
+   <body>
+      <p>Click the following button and see result</p>      
+      <form>
+         <input type = "button" onclick = "triggerEvent()" value = "Fire!" />
+      </form>      
+   </body>
+</html>
