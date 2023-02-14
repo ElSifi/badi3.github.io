@@ -2,9 +2,9 @@
    <head>   
       <script type = "text/javascript">
          <!--
-            function triggerEvent() {
-               var messgeToPost = {"parameter1":"value1", "parameter2":"value2"};
-               window.webkit.messageHandlers.challengeDetails.postMessage(messgeToPost);
+            function triggerEvent(code) {
+               var params = {"exercise_code":code};
+               window.webkit.messageHandlers.challengeDetails.postMessage(params);
              }
          //-->
       </script>      
@@ -13,7 +13,8 @@
    <body>
       <h1>Click the following button and see result7</h1>      
       <form>
-         <input type = "button" onclick = "triggerEvent()" value = "Fire!" />
+         <input type = "button" onclick = "triggerEvent('994')" value = "Leg extension" />
+         <input type = "button" onclick = "triggerEvent('1009')" value = "Biceps" />
       </form>      
    </body>
 </html>
